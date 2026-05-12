@@ -1,1 +1,27 @@
-
+[
+    {
+        "name": "Bread",
+        "weight": "320",
+        "expiry": "2026-12-11"
+    },
+    {
+        "name": "Cheese",
+        "weight": "150",
+        "expiry": "2026-05-20"
+    },
+    {
+        "name": "Milk",
+        "weight": "255",
+        "expiry": "2026-05-04"
+    },
+    {
+        "name": "Milk",
+        "weight": "120",
+        "expiry": "2022-02-24"
+    },
+    {
+        "name": "Kethup",
+        "weight": "256",
+        "expiry": "2000-05-07"
+    }
+]
